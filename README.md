@@ -1,4 +1,4 @@
-# Inventory_Management_System
+# Inventory Management System
 
 JavaFX Inventory Management Application and GUI
 
